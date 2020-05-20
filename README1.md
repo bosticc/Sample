@@ -1,6 +1,6 @@
-#About me
+# About me
 
-This is my about me project, it is not *everything*. but we are getting there 
+This is my about me project, it is not **everything**. but we are getting there 
 or this one
 
 Maybe this line will give me the error I am looking for
